@@ -14,7 +14,8 @@ We are using SQLite for the Database.
 ### Overview
 Our chosen project examines house prices in the Greater Toronto Area in the years 2020 and 2021.
 
-Below is the link to the Google Presentation: 
+Below is the link to the Google Presentation:
+
 https://docs.google.com/presentation/d/18zoa9e-XM6T4zkNldignEfLlJQlyv5hIjZ_TES3dOhg/edit#slide=id.ga8cc62eee0_9_114
 
 ### Data Content 
